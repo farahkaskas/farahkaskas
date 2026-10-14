@@ -7,7 +7,7 @@ In my free time I'm usually finding ways to make things at home run smoother, or
 
 
 ### What I work with
-SQL · Python · Power BI · Tableau · dbt · AWS
+SQL · Python · Power BI · Tableau · AWS
 
 ### At work
 I'm part of a sales analytics team, where we've built:
