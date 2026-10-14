@@ -4,7 +4,7 @@ A problem solver who loves data, based in Toronto.
 I build data models and dashboards that help people make better decisions.
 In my free time I'm usually finding ways to make things at home run smoother, or trying a new restaurant.
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+
 
 ### What I work with
 SQL · Python · Power BI · Tableau · dbt · AWS
@@ -24,15 +24,15 @@ I'm part of a sales analytics team, where we've built:
 dbt · Microsoft Fabric (DP-600)
 
 ### A little more about me
-​```sql
+```sql
 SELECT
-    'Farah'                                              AS name,
-    'Toronto'                                            AS based_in,
-    'English, Arabic, French, Spanish'                   AS languages,
-    'Trying new restaurants, Travel, Basketball, Chess   AS hobbies,
-    'solutions people trust, use, and decide with'        AS goal
+    'Farah'                                         AS name,
+    'Toronto'                                       AS based_in,
+    'English, Arabic, French, Spanish'              AS languages,
+    'trying new restaurants, travel, basketball, chess' AS hobbies,
+    'solutions people trust, use, and decide with'  AS goal
 FROM me
-WHERE me.is_hungry = FALSE;   -- otherwise results may varyC;
-​```
+WHERE me.is_hungry = FALSE;   -- otherwise results may vary
+```
 
-💬 Happy to chat about data, dashboards, or where to eat in Toronto. Find me on LinkedIn.
+Happy to chat about data, dashboards, or where to eat in Toronto. Find me on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
