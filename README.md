@@ -5,9 +5,8 @@ I build data models and dashboards that help people make better decisions.
 In my free time I'm usually finding ways to make things at home run smoother, or trying a new restaurant.
 
 
-
 ### What I work with
-SQL · Python · Power BI · Tableau · AWS
+SQL · Python · Power BI · Tableau · dbt · AWS
 
 ### At work
 I'm part of a sales analytics team, where we've built:
@@ -19,9 +18,6 @@ I'm part of a sales analytics team, where we've built:
 - **Summerlicious & Winterlicious:** ranked Toronto's prix fixe menus with SQL, then built a dashboard to compare them
 - **Rental revenue tracker:** tracks short-term rental income and expenses over time in Power BI
 - **Personal finance pipeline:** automates my expense tracking on AWS, now being rebuilt with dbt
-
-### Currently learning
-dbt · Microsoft Fabric (DP-600)
 
 ### A little more about me
 ```sql
