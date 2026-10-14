@@ -22,11 +22,11 @@ I'm part of a sales analytics team, where we've built:
 ### A little more about me
 ```sql
 SELECT
-    'Farah'                                         AS name,
-    'Toronto'                                       AS based_in,
-    'English, Arabic, French, Spanish'              AS languages,
+    'Farah' AS name,
+    'Toronto' AS based_in,
+    'English, Arabic, French, Spanish' AS languages,
     'trying new restaurants, travel, basketball, chess' AS hobbies,
-    'solutions people trust, use, and decide with'  AS goal
+    'solutions people trust, use, and decide with' AS goal
 FROM me
 WHERE me.is_hungry = FALSE;   -- otherwise results may vary
 ```
