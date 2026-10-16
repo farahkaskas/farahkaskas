@@ -31,4 +31,4 @@ FROM me
 WHERE me.is_hungry = FALSE;   -- otherwise results may vary
 ```
 
-Happy to chat about data, dashboards, or where to eat in Toronto. Find me on [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE)
+Happy to chat about data, dashboards, or where to eat in Toronto. Find me on [LinkedIn](https://www.linkedin.com/in/farahkaskas)
